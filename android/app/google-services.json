@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "558572918345",
+    "firebase_url": "https://chatbox-aaa3b.firebaseio.com",
+    "project_id": "chatbox-aaa3b",
+    "storage_bucket": "chatbox-aaa3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558572918345:android:81269621f086100f401198",
+        "android_client_info": {
+          "package_name": "co.jerry.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "558572918345-9m3sogr1k6mekl6o6ftrr689v49b6me6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsgvAllXvE2OsgqwXScpEyAxB0adynNc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "558572918345-9m3sogr1k6mekl6o6ftrr689v49b6me6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
